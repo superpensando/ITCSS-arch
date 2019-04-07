@@ -7,4 +7,5 @@
  */
 dt {
   @include font-weight(bold);
+  color: $list-color; 
 }
